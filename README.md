@@ -59,6 +59,7 @@ $ docker run -d -p 8080:8080 --network=host helloworld/envoy
 7. Run the react client: `yarn start`
 8. Access to localhost:8081,  check out the console, it should print the gRPC server response.
 
+![Alt text](react-grpc.png)
 
 
 
